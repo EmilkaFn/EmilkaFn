@@ -8,7 +8,7 @@ Software Engineer based in London, UK
 🤝☕ Feel free to connect on LinkedIn — or book a 15–30 min Zoom chat via Calendly (Monday evenings, UK time)<br>
 Open to opportunities in London and hybrid/remote work, or collaboration on interesting projects (UK / US / anywhere)<br>
 
-📚 I learn by building — currently focused on full-stack projects and clean, tested code
+📚 I learn by building — currently focused on full-stack projects (JavaScript/Python) and clean, tested code
 
 🐬 Dolphin C.O.D.E. brain type - [Check yours here](https://mybrainanimal.com)
 
