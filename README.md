@@ -62,6 +62,7 @@ Interests: technology, architecture, drawing & painting, graphics, photography, 
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=ffffff)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=ffffff)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=ffffff)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=ffffff)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=ffd02f)
 ![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=ffffff)
 
