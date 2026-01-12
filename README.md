@@ -37,6 +37,8 @@ Interests: technology, architecture, drawing & painting, graphics, photography, 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+
 
 ### 🔹 Databases
 
@@ -49,6 +51,7 @@ Interests: technology, architecture, drawing & painting, graphics, photography, 
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
 
 ### 🔹 Tools · Collaboration · Debugging · Data / API
 
