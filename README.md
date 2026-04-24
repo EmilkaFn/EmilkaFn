@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/EF_github_bcg1.png" alt="Full-stack engineering banner" width="100%" />
+  <img src="./assets/EF_github_bcg2.png" alt="Full-stack engineering banner" width="100%" />
 </p>
 
 ## 👋✨ Hi there, I'm Emilia (Emilka)
