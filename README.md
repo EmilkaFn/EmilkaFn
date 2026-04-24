@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/EF_se_background.png" alt="Full-stack engineering banner" width="100%" />
+</p>
+
 ## 👋✨ Hi there, I'm Emilia (Emilka)
 
 Software Engineer based in London, UK
