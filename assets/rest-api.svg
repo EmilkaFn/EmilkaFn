@@ -1,52 +1,47 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="restTitle restDesc">
   <title id="restTitle">REST APIs</title>
-  <desc id="restDesc">Premium API icon with a large elegant cloud on a blue background.</desc>
+  <desc id="restDesc">Premium API icon with a large blue cloud, stronger shadow, and darker API text on a blue background.</desc>
 
   <defs>
-    <!-- background adjusted to feel closer to other stack icons -->
     <linearGradient id="bg" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#3B82F6"/>
+      <stop stop-color="#2F80ED"/>
       <stop offset="0.58" stop-color="#2563EB"/>
-      <stop offset="1" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#1E4FD6"/>
     </linearGradient>
 
-    <!-- more premium cloud gradient -->
-    <linearGradient id="cloud" x1="10" y1="11" x2="39" y2="34" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FCFF"/>
-      <stop offset="0.45" stop-color="#EAF5FF"/>
-      <stop offset="1" stop-color="#CFE7FF"/>
+    <linearGradient id="cloud" x1="8" y1="10" x2="40" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7DCFF"/>
+      <stop offset="0.42" stop-color="#7CC7FF"/>
+      <stop offset="1" stop-color="#4FA8F7"/>
     </linearGradient>
 
-    <!-- cloud shadow -->
-    <filter id="cloudShadow" x="4" y="8" width="40" height="30" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="1.2" stdDeviation="1.25" flood-color="#1846A3" flood-opacity="0.34"/>
+    <filter id="cloudShadow" x="0" y="5" width="48" height="38" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="2.1" stdDeviation="2.0" flood-color="#15429A" flood-opacity="0.55"/>
     </filter>
 
-    <!-- subtle text shadow -->
     <filter id="textShadow" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="0.45" stdDeviation="0.35" flood-color="#FFFFFF" flood-opacity="0.22"/>
+      <feDropShadow dx="0" dy="0.8" stdDeviation="0.55" flood-color="#0E2F78" flood-opacity="0.35"/>
     </filter>
   </defs>
 
   <rect x="0" y="0" width="48" height="48" rx="12" fill="url(#bg)"/>
 
-  <!-- larger, more cloud-like shape -->
   <g filter="url(#cloudShadow)">
     <path
-      d="M13.1 34H35.2C39.2 34 42.3 31 42.3 27.2C42.3 23.9 39.9 21.1 36.8 20.5C35.6 15.8 31.5 12.4 26.7 12.4C22.6 12.4 18.9 14.9 17.2 18.7C16.7 18.6 16.1 18.5 15.5 18.5C11.9 18.5 9 21.3 8.7 24.9C6.9 26 5.7 27.9 5.7 30.1C5.7 32.3 7.5 34 9.7 34H13.1Z"
+      d="M12.3 35.3H36.1C40.6 35.3 44 32 44 27.8C44 24.2 41.4 21.1 37.9 20.3C36.4 15.1 31.8 11.4 26.3 11.4C21.6 11.4 17.4 14 15.3 18.4C14.8 18.3 14.2 18.2 13.6 18.2C9.6 18.2 6.3 21.3 6 25.3C4 26.6 2.8 28.7 2.8 31.1C2.8 33.5 4.7 35.3 7.1 35.3H12.3Z"
       fill="url(#cloud)"
     />
   </g>
 
   <text
     x="24"
-    y="29.2"
+    y="30.8"
     text-anchor="middle"
-    fill="#1E4FAE"
+    fill="#0B2F7A"
     font-family="Arial Black, Arial, Helvetica, sans-serif"
-    font-size="11"
+    font-size="14"
     font-weight="900"
-    letter-spacing="0.12"
+    letter-spacing="0.04"
     filter="url(#textShadow)"
   >
     API
