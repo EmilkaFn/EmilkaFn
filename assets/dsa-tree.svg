@@ -1,6 +1,6 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="dsaTitle dsaDesc">
   <title id="dsaTitle">Data Structures and Algorithms</title>
-  <desc id="dsaDesc">Green icon with a large centered white binary tree symbol.</desc>
+  <desc id="dsaDesc">Green icon with a large centered white binary tree symbol and stronger shadow.</desc>
 
   <defs>
     <linearGradient id="bg" x1="6" y1="6" x2="42" y2="42" gradientUnits="userSpaceOnUse">
@@ -10,14 +10,13 @@
     </linearGradient>
 
     <filter id="treeShadow" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="0.75" stdDeviation="0.65" flood-color="#000000" flood-opacity="0.28"/>
+      <feDropShadow dx="0" dy="1.1" stdDeviation="1.0" flood-color="#000000" flood-opacity="0.5"/>
     </filter>
   </defs>
 
   <rect x="4" y="4" width="40" height="40" rx="10" fill="url(#bg)"/>
 
   <g filter="url(#treeShadow)">
-    <!-- larger centered binary tree -->
     <g stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
       <line x1="24" y1="11.5" x2="17" y2="20"/>
       <line x1="24" y1="11.5" x2="31" y2="20"/>
