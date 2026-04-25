@@ -1,0 +1,26 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="sqlTitle sqlDesc">
+  <title id="sqlTitle">SQL</title>
+  <desc id="sqlDesc">SQL icon with a database cylinder.</desc>
+
+  <defs>
+    <linearGradient id="sqlBg" x1="6" y1="4" x2="42" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <filter id="sqlShadow" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="1.2" stdDeviation="1.2" flood-color="#0F2E78" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="48" height="48" rx="12" fill="url(#sqlBg)"/>
+
+  <g filter="url(#sqlShadow)" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="24" cy="15" rx="10" ry="4.2" fill="rgba(255,255,255,0.08)"/>
+    <path d="M14 15V25C14 27.4 18.5 29.2 24 29.2C29.5 29.2 34 27.4 34 25V15"/>
+    <path d="M14 20C14 22.4 18.5 24.2 24 24.2C29.5 24.2 34 22.4 34 20"/>
+  </g>
+
+  <text x="24" y="39" text-anchor="middle" fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="10.5" font-weight="900" letter-spacing="0.6">
+    SQL
+  </text>
+</svg>
