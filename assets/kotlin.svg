@@ -2,9 +2,13 @@
 <svg version="1.1" id="kotlin-logo" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
   viewBox="0 0 60 60" xml:space="preserve" role="img" aria-labelledby="kotlinTitle kotlinDesc">
   <title id="kotlinTitle">Kotlin</title>
-  <desc id="kotlinDesc">Kotlin programming language logo.</desc>
+  <desc id="kotlinDesc">Kotlin programming language logo with rounded corners.</desc>
 
-  <g>
+  <defs>
+    <clipPath id="roundedClip">
+      <rect x="0" y="0" width="60" height="60" rx="12" ry="12"/>
+    </clipPath>
+
     <linearGradient id="kotlinGradient1" gradientUnits="userSpaceOnUse" x1="15.9594" y1="-13.0143" x2="44.3068" y2="15.3332" gradientTransform="matrix(1 0 0 -1 0 61)">
       <stop offset="9.677000e-02" style="stop-color:#0095D5"/>
       <stop offset="0.3007" style="stop-color:#238AD9"/>
@@ -12,7 +16,6 @@
       <stop offset="0.8643" style="stop-color:#7472E2"/>
       <stop offset="1" style="stop-color:#806EE3"/>
     </linearGradient>
-    <polygon style="fill:url(#kotlinGradient1);" points="0,60 30.1,29.9 60,60"/>
 
     <linearGradient id="kotlinGradient2" gradientUnits="userSpaceOnUse" x1="4.2092" y1="48.9409" x2="20.6734" y2="65.405" gradientTransform="matrix(1 0 0 -1 0 61)">
       <stop offset="0.1183" style="stop-color:#0095D5"/>
@@ -20,7 +23,6 @@
       <stop offset="0.6962" style="stop-color:#6D74E1"/>
       <stop offset="0.8333" style="stop-color:#806EE3"/>
     </linearGradient>
-    <polygon style="fill:url(#kotlinGradient2);" points="0,0 30.1,0 0,32.5"/>
 
     <linearGradient id="kotlinGradient3" gradientUnits="userSpaceOnUse" x1="-10.1017" y1="5.8362" x2="45.7315" y2="61.6694" gradientTransform="matrix(1 0 0 -1 0 61)">
       <stop offset="0.1075" style="stop-color:#C757BC"/>
@@ -30,6 +32,11 @@
       <stop offset="0.743" style="stop-color:#F58613"/>
       <stop offset="0.8232" style="stop-color:#F88909"/>
     </linearGradient>
+  </defs>
+
+  <g clip-path="url(#roundedClip)">
+    <polygon style="fill:url(#kotlinGradient1);" points="0,60 30.1,29.9 60,60"/>
+    <polygon style="fill:url(#kotlinGradient2);" points="0,0 30.1,0 0,32.5"/>
     <polygon style="fill:url(#kotlinGradient3);" points="30.1,0 0,31.7 0,60 30.1,29.9 60,0"/>
   </g>
 </svg>
