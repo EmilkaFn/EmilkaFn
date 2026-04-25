@@ -1,0 +1,37 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="restTitle restDesc">
+  <title id="restTitle">REST APIs</title>
+  <desc id="restDesc">Blue cloud icon with API label on a dark background.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="6" y1="6" x2="42" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+
+    <linearGradient id="cloud" x1="14" y1="12" x2="34" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="40" height="40" rx="10" fill="url(#bg)"/>
+
+  <path
+    d="M15.8 27.4H33.2C36 27.4 38.3 25.2 38.3 22.4C38.3 19.9 36.4 17.8 33.9 17.4C32.9 14.2 29.9 12 26.3 12C22.6 12 19.4 14.5 18.4 17.9C15.3 18.2 12.9 20.8 12.9 23.9C12.9 26 14.1 27.4 15.8 27.4Z"
+    fill="url(#cloud)"
+  />
+
+  <text
+    x="24"
+    y="37"
+    text-anchor="middle"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="9.2"
+    font-weight="800"
+    letter-spacing="0.7"
+  >
+    API
+  </text>
+</svg>
