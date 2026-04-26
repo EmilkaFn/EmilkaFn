@@ -107,7 +107,7 @@ A structured overview of the technologies I worked with at 100Devs and during Ma
 </table>
 
 <h2>
- <sub><img src="./assets/waving_hand_transp1.gif" width="28" alt="Running unicorn" /></sub> Thank you for visiting my GitHub. Have a great day 🌻 or night ✨
+ <sub><img src="./assets/waving_hand_transp1.gif" width="28" alt="Running unicorn" /></sub> Thank you for visiting my GitHub. Have a great day ☕ or night ✨
 </h2>
 
 
