@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="./assets/term1.png" alt="Full-stack engineering banner" width="100%" />
-</p>
-<p align="center">
-  <img src="./assets/EF_github_bcg2.png" alt="Full-stack engineering banner" width="100%" />
-</p>
-## 👋✨ Hi there, I'm Emilia (Emilka)
+<p align="center"><img src="./assets/term1.png" width="100%" style="display:inline-block;"><img src="./assets/EF_github_banner.png" width="100%" style="display:inline-block;"></p>
 
-Software Engineer based in London, UK
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=3776AB&vCenter=true&width=900&height=36&lines=Full-Stack+Software+Engineer+based+in+London,+UK&v=11" alt="Full-Stack Software Engineer based in London, UK" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=C99700&vCenter=true&width=900&height=36&lines=Building+solutions+where+logic+works+hard+so+users+don%27t+have+to&v=11" alt="Building solutions where logic works hard so users don't have to" />
+</p>
+<h2>
+  👋✨ Hi there, I'm Emilia (Emilka) <sub><img src="./assets/unicorn.gif" width="42" alt="Running unicorn" /></sub>
+</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliafurtan/)
 [![Calendly%20Coffee%20Chat](https://img.shields.io/badge/Calendly%20Coffee%20Chat-1A73FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/emilia-furtan/30min)
@@ -20,11 +21,96 @@ Open to opportunities in London and hybrid/remote work, or collaboration on inte
 
 🏁✨ Software Engineer (100Devs, Makers Academy) with a background in Art & Design and Architecture & Town Planning (MSc)
 
-Interests: technology, architecture, drawing & painting, graphics, photography, running
+Interests: technology, architecture, drawing & painting, graphics, photography, running 
 
 <br>
 
-## 🛠️✨ Tech Stack
+## 🛠️✨ Technology Stack
+
+A structured overview of the technologies I worked with at 100Devs and during Makers Academy 16-weeks full-time bootcamp experience
+
+<p align="center">
+  <strong>100Devs — Full-stack JavaScript development</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,git,github,vscode" />&nbsp;
+  <img src="./assets/rest-api.svg?v=13" width="48" height="48" alt="REST APIs" />&nbsp;
+  <img src="./assets/dsa-tree.svg?v=14" width="48" height="48" alt="Data Structures and Algorithms" />
+</p>
+
+<p align="center">
+  <sub>
+    JavaScript · React · Node.js · Express · HTML · CSS · Git · GitHub · VS Code · REST APIs · Data Structures & Algorithms
+  </sub>
+</p>
+
+---
+
+<p align="center">
+  <strong>Makers Academy — Full-stack JavaScript, Python &amp; database-backed web applications</strong>
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Frontend</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,html,css,tailwind" />
+      <br>
+      <sub>JavaScript · React · Next.js · Vite · HTML · CSS · Tailwind CSS</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Backend</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />&nbsp;&nbsp;<img src="./assets/kotlin.svg?v=2" width="48" height="48" alt="Kotlin" style="vertical-align: middle;" />
+      <br>
+      <sub>Node.js · Express · Python · Flask · Kotlin</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Databases</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+      <br>
+      <sub>PostgreSQL · MongoDB · Mongoose · SQL</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Testing</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=jest" />
+      <br>
+      <sub>Jest · Pytest · Test-Driven Development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Tools &amp; Workflow</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+      <br>
+      <sub>Git · GitHub · VS Code · IntelliJ IDEA · Postman</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Engineering Foundations</strong>
+      <br><br>
+      <sub>
+        Object-Oriented Programming (OOP)<br>
+        REST APIs<br>
+        Agile Delivery<br>
+        Pair Programming<br>
+        Debugging
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<h2>
+ <sub><img src="./assets/waving_hand_transp1.gif" width="28" alt="Running unicorn" /></sub> Thank you for visiting my GitHub. Have a great day 🌻 or night ✨
+</h2>
+
+
 
 ### 🔹 Frontend
 
