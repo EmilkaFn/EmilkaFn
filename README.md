@@ -5,11 +5,10 @@
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=C99700&vCenter=true&width=900&height=36&lines=Building+solutions+where+logic+works+hard+so+users+don%27t+have+to&v=11" alt="Building solutions where logic works hard so users don't have to" />
 </p>
-<h2 align="center">
-  
+
+<h2 align="center">  
  <sub><img src="./assets/waving_hand_transp1.gif" width="28" /></sub>✨ Hi there, I'm Emilia (Emilka) <sub><img src="./assets/unicorn.gif" width="42" alt="Running unicorn" /></sub>
 </h2>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliafurtan/)
 [![Calendly%20Coffee%20Chat](https://img.shields.io/badge/Calendly%20Coffee%20Chat-1A73FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/emilia-furtan/30min)
@@ -24,9 +23,6 @@ Open to opportunities in London and hybrid / remote work, or collaboration on in
 🏁✨ Software Engineer (100Devs, Makers Academy) with a background in Art & Design and Architecture & Town Planning (MSc)
 
 Interests: technology, architecture, drawing & painting, graphics, photography, running 
-
-<br>
-
 
 <h2 align="center">
   🛠️✨ Tech Stack
@@ -80,12 +76,12 @@ Technologies I worked with at the 100Devs program and during Makers Academy’s 
   <tr>
     <td align="center" valign="top" width="560">
       <strong>Databases</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />&nbsp;&nbsp;<img src="./assets/SQL.png?v=1" width="48" height="48" alt="SQL" style="vertical-align: middle;" /><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />&nbsp;&nbsp;<img src="./assets/mongoose.svg?v=1" width="48" height="48" alt="Mongoose" style="vertical-align: middle;" />&nbsp;&nbsp;<img src="./assets/sql.svg?v=1" width="48" height="48" alt="SQL" style="vertical-align: middle;" /><br>
       <sub>PostgreSQL · MongoDB · Mongoose · SQL</sub>
     </td>
     <td align="center" valign="top" width="400">
       <strong>Testing</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=jest" />&nbsp;&nbsp;<img src="./assets/pytest.png?v=1" width="48" height="48" alt="Pytest" style="vertical-align: middle;" /><br>
+      <img src="https://skillicons.dev/icons?i=jest" />&nbsp;&nbsp;<img src="./assets/pytest.svg" width="48" height="48" alt="Pytest" style="vertical-align: middle;" /><br>
       <sub>Jest · Pytest · Test-Driven Development</sub>
     </td>
   </tr>
