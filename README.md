@@ -29,15 +29,17 @@ Interests: technology, architecture, drawing & painting, graphics, photography, 
 
 
 <h2 align="center">
-  🛠️✨ Technology Stack
-</h2>
-Technologies I worked with at 100Devs and during Makers Academy 16-weeks full-time bootcamp
+  🛠️✨ Tech Stack
+</h2>  
+<p align="center">
+Technologies I worked with at the 100Devs program and during Makers Academy’s 16-week full-time bootcamp
+</p>
 
 ---
 
 <p align="center">
     <strong>
-    <img src="./assets/100Devs_logo.jpg" width="22" alt="Makers Academy logo" style="vertical-align: middle;" />
+    <img src="./assets/100Devs_logo.jpg" width="22" alt="100Devs logo" style="vertical-align: middle;" />
    100Devs — Full-stack JavaScript development
   </strong>
 
