@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mongoose icon</title>
+  <desc id="desc">Mongoose logo on a light rounded square background, styled to match other skill icons.</desc>
+  <defs>
+    <linearGradient id="bg" x1="5" y1="3" x2="43" y2="45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7F8FA"/>
+      <stop offset="1" stop-color="#EEF1F4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="48" height="48" rx="11" fill="url(#bg)"/>
+  <rect x="0.6" y="0.6" width="46.8" height="46.8" rx="10.4" stroke="#D9DEE5" stroke-width="1.2"/>
+  <path d="M18.46 28.09 L18.43 33.06 L22.04 33.09 L22.13 32.67 L22.10 28.09 L20.28 30.82 Z M47.30 20.14 L46.29 19.52 L45.64 20.95 L45.68 19.23 L34.21 15.78 L24.54 15.17 L26.61 16.43 L21.19 15.07 L19.99 16.11 L21.03 19.49 L23.07 21.79 L26.13 23.48 L22.07 21.56 L20.15 19.13 L19.40 16.24 L17.59 16.17 L9.24 18.35 L0.70 24.06 L5.67 23.16 L9.14 23.51 L12.07 24.75 L14.40 27.02 L14.50 23.71 L18.37 23.71 L20.22 27.02 L22.07 23.71 L26.06 23.71 L26.19 30.17 L29.24 27.86 L34.67 27.44 L34.21 26.21 L34.89 25.59 L45.45 23.22 Z M37.98 23.16 L35.25 24.03 L33.40 24.94 L33.08 25.49 L33.14 26.76 L32.98 26.66 L32.65 25.95 L32.56 25.20 L32.65 25.01 L33.21 24.55 L34.21 24.03 L36.00 23.45 L37.30 23.16 Z M31.78 17.99 L31.94 17.86 L32.98 17.89 L35.71 18.38 L38.11 18.93 L38.27 19.06 L37.72 19.39 L35.74 19.52 L34.70 19.45 L33.79 19.23 L33.40 19.00 L32.91 18.38 Z M21.32 16.63 L21.61 16.60 L23.82 17.47 L25.06 18.28 L25.80 19.00 L25.74 19.10 L24.70 18.67 L25.25 19.52 L25.25 19.75 L24.02 19.16 L25.09 20.46 L24.93 20.56 L24.41 20.40 L25.32 21.63 L25.32 21.79 L23.59 20.62 L22.26 19.26 L21.29 17.64 L21.19 16.82 Z" fill="#7B150D" fill-rule="evenodd" clip-rule="evenodd"/>
+</svg>
