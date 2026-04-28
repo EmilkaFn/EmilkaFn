@@ -31,7 +31,7 @@ Interests: technology, architecture, drawing & painting, graphics, photography, 
 <h2 align="center">
   🛠️✨ Technology Stack
 </h2>
-A structured overview of the technologies I worked with at 100Devs and during Makers Academy 16-weeks full-time bootcamp experience
+Technologies I worked with at 100Devs and during Makers Academy 16-weeks full-time bootcamp
 
 ---
 
