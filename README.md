@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/term1.png" width="100%" style="display:inline-block;"><img src="./assets/EF_github_banner0.png" width="100%" style="display:inline-block;"></p>
+<p align="center"><img src="./assets/term1.png" width="100%" style="display:inline-block;"><img src="./assets/EF_github_banner01.png" width="100%" style="display:inline-block;"></p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=3776AB&vCenter=true&width=900&height=36&lines=Full-Stack+Software+Engineer+based+in+London,+UK&v=11" alt="Full-Stack Software Engineer based in London, UK" />
